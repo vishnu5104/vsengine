@@ -1,0 +1,3 @@
+/**
+ * @namespace Vsengine.Types.Display
+ */
