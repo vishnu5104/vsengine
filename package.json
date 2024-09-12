@@ -3,9 +3,9 @@
   "version": "3.85.2",
   "release": "Itsuki",
   "description": "A fast, free and fun HTML5 Game Framework for Desktop and Mobile web browsers from the team at Vsengine Studio Inc.",
-  "author": "Richard Davey <rich@vsengine.io> (https://www.vsengine.io)",
-  "homepage": "https://vsengine.io",
-  "bugs": "https://github.com/phaserjs/vsengine/issues",
+  "author": "VS",
+  "homepage": "",
+  "bugs": "https://vishnus5104@github.com/vishnu5104/vsengine/issues",
   "license": "MIT",
   "licenseUrl": "https://www.opensource.org/licenses/mit-license.php",
   "main": "./src/vsengine.js",
@@ -14,7 +14,7 @@
   "module": "./dist/vsengine.esm.js",
   "repository": {
     "type": "git",
-    "url": ".git"
+    "url": "https://vishnus5104@github.com/vishnu5104/vsengine.git"
   },
   "scripts": {
     "beta": "npm publish --tag beta",
